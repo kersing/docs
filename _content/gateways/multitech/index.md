@@ -18,9 +18,9 @@ Currently MultiTech provides two LoRaWAN gateways:
 
 * The [MultiConnect® Conduit™ AP](http://www.multitech.net/developer/products/multiconnect-conduit-access-point/) (MTCAP) connects thousands of IoT assets to the cloud using the LoRaWAN® protocol. It expands LoRa network coverage to difficult to reach areas and is capable of packet forwarding user data between LoRa end points and a centrally located network server on the cloud, in a data center, or a public network.
 
-This guide will help you set up these gateways to communicate over The Things Network.
-
 ![MultiTech Conduit AP](conduit_ap.png)
+
+This guide will help you set up these gateways to communicate over The Things Network.
 
 ## Prerequisites
 
