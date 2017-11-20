@@ -24,7 +24,7 @@ This guide will help you set up these gateways to communicate over The Things Ne
 
 ## Prerequisites
 
-* MultiTech Conduit or MultiTech Conduit AO [AEP](http://www.multitech.net/developer/software/aep/) or [mLinux](http://www.multitech.net/developer/software/mlinux/) model
+* MultiTech Conduit or MultiTech Conduit AP [AEP](http://www.multitech.net/developer/software/aep/) or [mLinux](http://www.multitech.net/developer/software/mlinux/) model
 
   > There is no need to update any of the MultiTech software on the conduit.
 
