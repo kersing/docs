@@ -20,6 +20,8 @@ Currently MultiTech provides two LoRaWAN gateways:
 
 This guide will help you set up these gateways to communicate over The Things Network.
 
+![MultiTech Conduit AP](conduit_ap.png)
+
 ## Prerequisites
 
 * MultiTech Conduit or MultiTech Conduit AO [AEP](http://www.multitech.net/developer/software/aep/) or [mLinux](http://www.multitech.net/developer/software/mlinux/) model
